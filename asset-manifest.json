@@ -1,0 +1,16 @@
+{
+  "main.css": "/reactdeploytest/static/css/main.7abf970a.chunk.css",
+  "main.js": "/reactdeploytest/static/js/main.9b3b3bac.chunk.js",
+  "main.js.map": "/reactdeploytest/static/js/main.9b3b3bac.chunk.js.map",
+  "static/css/1.6d2243a0.chunk.css": "/reactdeploytest/static/css/1.6d2243a0.chunk.css",
+  "static/js/1.5e0cf3fc.chunk.js": "/reactdeploytest/static/js/1.5e0cf3fc.chunk.js",
+  "static/js/1.5e0cf3fc.chunk.js.map": "/reactdeploytest/static/js/1.5e0cf3fc.chunk.js.map",
+  "runtime~main.js": "/reactdeploytest/static/js/runtime~main.500c0ecf.js",
+  "runtime~main.js.map": "/reactdeploytest/static/js/runtime~main.500c0ecf.js.map",
+  "static/media/bootstrap.css": "/reactdeploytest/static/media/glyphicons-halflings-regular.89889688.svg",
+  "static/css/1.6d2243a0.chunk.css.map": "/reactdeploytest/static/css/1.6d2243a0.chunk.css.map",
+  "static/css/main.7abf970a.chunk.css.map": "/reactdeploytest/static/css/main.7abf970a.chunk.css.map",
+  "index.html": "/reactdeploytest/index.html",
+  "precache-manifest.f36af8fa6c2b0e1c02f670ca3e208a1a.js": "/reactdeploytest/precache-manifest.f36af8fa6c2b0e1c02f670ca3e208a1a.js",
+  "service-worker.js": "/reactdeploytest/service-worker.js"
+}
